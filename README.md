@@ -10,7 +10,8 @@
 - 👨‍💻 Presently, I'm developing Softwares & apps with Flutter.
 - 👀 You can see my portfolio at [Instagram](http://www.linkedin.com/in/anjaneykumar7)<br>
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...https://anjaneykumar.blogspot.com
+- 📫 How to reach me <a href="https://anjaneykumar.blogspot.com" target="_blank" rel="noreferrer">Anjaneykumar</a>
+ 
 
 
 <img src="https://komarev.com/ghpvc/?username=anjaneykumar7&label=Profile%20views&color=8042fc&style=plastic" alt="anjaneykumar7" /> 
