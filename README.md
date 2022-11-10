@@ -10,7 +10,7 @@
 - 👨‍💻 Presently, I'm developing Softwares & apps with Flutter.
 - 👀 You can see my portfolio at [Instagram](http://www.linkedin.com/in/anjaneykumar7)<br>
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...https://t.me/thisisav
+- 📫 How to reach me ...https://anjaneykumar.blogspot.com
 
 
 <img src="https://komarev.com/ghpvc/?username=anjaneykumar7&label=Profile%20views&color=8042fc&style=plastic" alt="anjaneykumar7" /> 
@@ -32,7 +32,7 @@
 </p>
 
 ### Badges
-<a href="http://www.github.com/anjaneykumar7"><img src="https://github-readme-stats.vercel.app/api?username=anjaneykumar7&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="amirbayat0's GitHub stats" /></a>
+<a href="http://www.github.com/anjaneykumar7"><img src="https://github-readme-stats.vercel.app/api?username=anjaneykumar7&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="anjaneykumar's GitHub stats" /></a>
 
 
 
