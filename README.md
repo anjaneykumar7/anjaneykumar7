@@ -6,7 +6,7 @@
 
 
 ![Anjaneykunar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjaneykumar7&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjaneykumar7&layout=compact)](https://github.com/anjaneykumar7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjaneykumar7&layout=compact)](https://github.com/anjaneykumar7)
 
 <!---
 anjaneykumar7/anjaneykumar7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
