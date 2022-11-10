@@ -9,7 +9,7 @@
 - 🔆 I’m interested in Dart/Flutter.<br>
 - 👨‍💻 Presently, I'm developing Softwares & apps with Flutter.
 - 👀 You can see my portfolio at [Instagram](http://www.linkedin.com/in/anjaneykumar7)<br>
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Development...
 - 📫 How to reach me <a href="https://anjaneykumar.blogspot.com" target="_blank" rel="noreferrer">Anjaneykumar</a>
  
 
@@ -31,11 +31,6 @@
 <a href="https://znap.link/CodeWithFlexz" target="_blank" rel="noreferrer"><img src="https://uploads-ssl.webflow.com/6026bc921eff07d61a132750/602843b7b4409e5ea0cbcc1c_social-logo-2.png" width="32" height="32" /></a>
 <a href="https://www.github.com/anjaneykumar7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 </p>
-
-### Badges
-<a href="http://www.github.com/anjaneykumar7"><img src="https://github-readme-stats.vercel.app/api?username=anjaneykumar7&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="anjaneykumar's GitHub stats" /></a>
-
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjaneykumar7&layout=compact)](https://github.com/anjaneykumar7)
