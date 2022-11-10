@@ -23,20 +23,25 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
+### Badges
+<a href="http://www.github.com/anjaneykumar7"><img src="https://github-readme-stats.vercel.app/api?username=ajaneykumar7&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="anjaneykunar's GitHub stats" /></a>
+
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjaneykumar7&layout=compact)](https://github.com/anjaneykumar7)
+
+### Top Repository
+<div width="100%" align="center"><a href="https://github.com/anjaneykumar7/socialx" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anjaneykumar7&repo=socialx&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
+
 ### Socials
 
 <p align="left"> 
 <a href="http://www.instagram.com/anjaneykunar7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.youtube.com/c/anjaneykumar7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-<a href="https://znap.link/CodeWithFlexz" target="_blank" rel="noreferrer"><img src="https://uploads-ssl.webflow.com/6026bc921eff07d61a132750/602843b7b4409e5ea0cbcc1c_social-logo-2.png" width="32" height="32" /></a>
+<a href="https://linkedin.com/in/anjaneykumar7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/anjaneykumar7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjaneykumar7&layout=compact)](https://github.com/anjaneykumar7)
-
-### Top Repository
-<div width="100%" align="center"><a href="https://github.com/anjaneykumar7/socialx" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anjaneykumar7&repo=Sneakers-shop-app-Flutter&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/anjaneykumar7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
