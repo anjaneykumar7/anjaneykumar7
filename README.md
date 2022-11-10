@@ -8,15 +8,9 @@
 - 🌱 I'm  currently learning flutter and AWS.<br>
 - 🔆 I’m interested in Dart/Flutter.<br>
 - 👨‍💻 Presently, I'm developing Softwares & apps with Flutter.
-- 👀 You can see my portfolio at [Instagram](http://www.instagram.com/anjaneykumar7)<br>
+- 👀 You can see my portfolio at [Instagram](http://www.linkedin.com/in/anjaneykumar7)<br>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://t.me/thisisav
-
-
--  I’m interested in Developing 
-- I’m currently learning flutter and AWS
-
-
 
 
 <img src="https://komarev.com/ghpvc/?username=anjaneykumar7&label=Profile%20views&color=8042fc&style=plastic" alt="anjaneykumar7" /> 
