@@ -33,14 +33,12 @@
 <div width="100%" align="center"><a href="https://github.com/anjaneykumar7/socialx" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anjaneykumar7&repo=socialx&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
 
 ### Socials
-
 <p align="left"> 
 <a href="http://www.instagram.com/anjaneykunar7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.youtube.com/c/anjaneykumar7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 <a href="https://linkedin.com/in/anjaneykumar7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/anjaneykumar7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 </p>
-
 
 
 ### Support Me
