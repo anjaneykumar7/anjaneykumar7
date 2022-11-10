@@ -36,7 +36,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjaneykumar7&layout=compact)](https://github.com/anjaneykumar7)
 
 ### Top Repository
-<div width="100%" align="center"><a href="https://github.com/anjaneykumar7/Sneakers-shop-app-Flutter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anjaneykumar7&repo=Sneakers-shop-app-Flutter&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/anjaneykumar7/socialx" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anjaneykumar7&repo=Sneakers-shop-app-Flutter&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/anjaneykumar7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
