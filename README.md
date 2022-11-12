@@ -7,7 +7,7 @@
 - Hello Everyone 👋, My name is Anjaneykumar.<br>
 - 🌱 I'm  currently learning flutter and AWS.<br>
 - 🔆 I’m interested in Dart/Flutter.<br>
-- 👨‍💻 Presently, I'm developing Softwares & apps with Flutter.
+- 👨‍💻 Presently, I'm developing  Mobile Application with Flutter.
 - 👀 You can see my portfolio at [Instagram](http://www.linkedin.com/in/anjaneykumar7)<br>
 - 💞️ I’m looking to collaborate on Development...
 - 📫 How to reach me <a href="https://anjaneykumar.blogspot.com" target="_blank" rel="noreferrer">Anjaneykumar</a>
