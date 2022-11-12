@@ -36,7 +36,7 @@
 <p align="left"> 
 <a href="http://www.instagram.com/anjaneykunar7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 &nbsp;
-<a href="https://www.youtube.com/c/anjaneykumar7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+<a href="https://www.youtube.com/@anjaneykumar7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 &nbsp;
 <a href="https://linkedin.com/in/anjaneykumar7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 &nbsp;
