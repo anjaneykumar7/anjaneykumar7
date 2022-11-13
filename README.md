@@ -24,16 +24,13 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
-### Badges
+### GitHub Stat's
 <a href="http://www.github.com/anjaneykumar7"><img src="https://github-readme-stats.vercel.app/api?username=anjaneykumar7&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="anjaneykunar's GitHub stats" /></a>
-
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anjaneykumar7&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjaneykumar7&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjaneykumar7&layout=compact)](https://github.com/anjaneykumar7)
 
 ### Top Repository
 <div width="100%" align="center"><a href="https://github.com/anjaneykumar7/socialx" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anjaneykumar7&repo=socialx&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
