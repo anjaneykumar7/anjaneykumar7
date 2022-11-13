@@ -9,12 +9,13 @@
 - 🔆 I’m interested in Dart/Flutter.<br>
 - 👨‍💻 Presently, I'm developing  Mobile Application with Flutter.
 - 👀 You can see my portfolio at [Instagram](http://www.linkedin.com/in/anjaneykumar7)<br>
-- 💞️ I’m looking to collaborate on Development...
-- 📫 How to reach me <a href="https://anjaneykumar.blogspot.com" target="_blank" rel="noreferrer">Anjaneykumar</a>
- 
+- 👬 I’m looking to collaborate on any project on Android Apps
+- 💬 Ask me about Android,Tech
+- 📫 How to reach me
+   [![LinkedIn Badge](https://img.shields.io/badge/-Anjaneykumar-%230077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anjaneykumar7/)
+  [![Gmail Badge](https://img.shields.io/badge/-anjaneykumar@gmail.com-%23D44638?style=flat&logo=Gmail&logoColor=white)](mailto:anjaneykumar02@gmail.com)
 
-
-<img src="https://komarev.com/ghpvc/?username=anjaneykumar7&label=Profile%20views&color=8042fc&style=plastic" alt="anjaneykumar7" /> 
+    <img src="https://komarev.com/ghpvc/?username=anjaneykumar7&label=Profile%20views&color=8042fc&style=plastic" alt="anjaneykumar7" /> 
 
 ### Skills
 
