@@ -27,6 +27,11 @@
 ### Badges
 <a href="http://www.github.com/anjaneykumar7"><img src="https://github-readme-stats.vercel.app/api?username=anjaneykumar7&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="anjaneykunar's GitHub stats" /></a>
 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=anjaneykumar7&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjaneykunar7&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjaneykumar7&layout=compact)](https://github.com/anjaneykumar7)
 
