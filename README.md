@@ -8,7 +8,7 @@
 - 🌱 I'm  currently learning flutter and AWS.<br>
 - 🔆 I’m interested in Dart/Flutter.<br>
 - 👨‍💻 Presently, I'm developing  Mobile Application with Flutter.
-- 👀 You can see my portfolio at [Instagram](http://www.linkedin.com/in/anjaneykumar7)<br>
+- 👀 You can see my portfolio at [Linkedin](http://www.linkedin.com/in/anjaneykumar7)<br>
 - 👬 I’m looking to collaborate on any project on Android Apps
 - 💬 Ask me about Android,Tech
 - 📫 How to reach me:
