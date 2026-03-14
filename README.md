@@ -33,12 +33,18 @@ Building scalable mobile & web applications with Flutter, Next.js & AI
 </p>
 
 ### ⚙ Architecture & Tools
-- GetX  
+- GetX
+- Provider
+- BLOC
 - MVC Architecture  
 - REST APIs  
 - Supabase / MongoDB  
 - AI API Integrations  
-- Subscription & Ad Integration Systems  
+- Subscription & Ad Integration Systems
+- In App Purchases
+- Google Ads Integration
+- Razorpay and Stripe
+
 
 ---
 
