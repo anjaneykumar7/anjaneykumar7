@@ -48,13 +48,6 @@ Building scalable mobile & web applications with Flutter, Next.js & AI
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 AI-Based Applications
-- WallFrame AI – AI-powered wall art generator  
-- MyCvScore AI – Resume scoring & structured evaluation system  
-- Visa Prep Assistant – AI-driven interview preparation platform  
-
 ### 🔹 Mobile Applications
 - Cross-platform production apps built with Flutter  
 - Optimized for performance, scalability & clean architecture  
